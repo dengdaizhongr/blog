@@ -15,4 +15,4 @@ autoCollapseToc: true
 
 图床测试
 
-![text](https://photos-a5b.pages.dev/20250117135859_1.jpg)
+![text](https://photos-a5b.pages.dev/forza%20horizon%204/20250117135859_1.jpg)
