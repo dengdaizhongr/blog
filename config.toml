@@ -138,23 +138,23 @@ defaultContentLanguageInSubdir = false
     url = "/"
 
   [[languages.zh-cn.menu.main]]
-    name = "<i class='fas fa-laptop-code'></i>编程"
+    name = "<i class='fas fa-laptop-code'></i>摄影"
     weight = 20
-    identifier = "编程"
+    identifier = "摄影"
 
   [[languages.zh-cn.menu.main]]
-    parent = "编程"
-    name = "<i class='fas fa-yin-yang'></i>java"
+    parent = "摄影"
+    name = "<i class='fas fa-yin-yang'></i>风光摄影"
     weight = 1
-    identifier = "java"
-    url = "category/java"
+    identifier = "风光摄影"
+    url = "category/风光摄影"
 
   [[languages.zh-cn.menu.main]]
-    parent = "编程"
-    name = "<i class='fas fa-yin-yang'></i>python"
+    parent = "摄影"
+    name = "<i class='fas fa-yin-yang'></i>虚幻"
     weight = 10
-    identifier = "python"
-    url = "category/python"
+    identifier = "虚幻"
+    url = "category/虚幻"
 
   #[[languages.zh-cn.menu.main]]
     #parent = "摄影"
